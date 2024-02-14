@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo su
+service httpd start
+chmod 777 /var/www/html/index.html
